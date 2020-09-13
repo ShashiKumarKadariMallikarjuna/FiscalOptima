@@ -1,0 +1,1 @@
+This is a financial management application that the business owners can use to take care of their business.
